@@ -30,6 +30,13 @@ section{
     padding: 10px 20px;
     border-radius: 10px;
     color: white;
-    font-weight: 700;
-    
+    font-weight: 700;  
+}
+.dream-img{
+    width: 100%;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
